@@ -1,1 +1,5 @@
-# ArcGIS-Online-Dashboard-Table-Color-Coding
+# ArcGIS Online Color Coded Dashboard Table
+
+
+
+This 
