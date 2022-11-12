@@ -5,6 +5,8 @@
 This Arcade script is an example in how I formatted my Dashboard's table according to a project's submittal status.
 To use, change parameters as needed and paste into advanced formatting when setting up your Dashboard.
 
+
+
 This script does the below items:
   - Assigns colors of table rows according to submittal status type
   - Formats a raw date value to be in a MM/DD/YY style
